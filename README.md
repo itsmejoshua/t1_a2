@@ -4,7 +4,7 @@
 
 * [Published Portfolio](https://tubular-stroopwafel-ad65c0.netlify.app/)
 * [Github Repo](https://github.com/itsmejoshua/t1_a2)
-* [Presentation Video](https://linkcomingsoon.com)
+* [Presentation Video](https://vimeo.com/770404669/b5f9a3083e)
 
 ## Purpose
 The purpose of this project is to create my personal website and portfolio for my coder academy Term 1 Assignment 2.
