@@ -14,19 +14,19 @@ The purpose of this project is to create my personal website and portfolio for m
 The website is navigated primary with a navigation bar in the header area of the website.
 
 - Grid System
-- Resuable elements
+- Resuable elements (components)
 - Utility driven classes like mt-* mb-* col-\*-\*
 
 ## Sitemap
-- [Home](https://tubular-stroopwafel-ad65c0.netlify.app/)
-- [Portfolio & Projects]()
-- [Blog]()
-    - [Why Google Chrome is better?]()
-    - [Why Microsoft Edge is better?]()
-    - [Why Mozilla Firefox is better?]()
-    - [Why Safari is better?]()
-    - [Why Netscape is better?]()
-- [Contact](https://tubular-stroopwafel-ad65c0.netlify.app/contact)
+- [Home](https://tubular-stroopwafel-ad65c0.netlify.app/index.html)
+- [Portfolio & Projects](https://tubular-stroopwafel-ad65c0.netlify.app/portfolio.html)
+- [Blog](https://tubular-stroopwafel-ad65c0.netlify.app/blog.html)
+    - [Why Google Chrome is better?](https://tubular-stroopwafel-ad65c0.netlify.app/article.html#article-1)
+    - [Why Microsoft Edge is better?](https://tubular-stroopwafel-ad65c0.netlify.app/article.html#article-2)
+    - [Why Mozilla Firefox is better?](https://tubular-stroopwafel-ad65c0.netlify.app/article.html#article-3)
+    - [Why Safari is better?](https://tubular-stroopwafel-ad65c0.netlify.app/article.html#article-4)
+    - [Why Netscape is better?](https://tubular-stroopwafel-ad65c0.netlify.app/article.html#article-5)
+- [Contact](https://tubular-stroopwafel-ad65c0.netlify.app/contact.html)
 
 ## Screenshots
 Home Page

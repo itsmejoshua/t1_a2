@@ -420,20 +420,6 @@ footer .bi-heart {
     color:red;
 }
 
-/* Home Page */
-
-/* Resume */
-
-ul.personal-resume {
-    list-style-type: none;
-}
-
-.progress-bar {
-    position: relative;
-    color: #000!important;
-    background-color: #f50000!important;
-}
-
 /* Projects */
 
 .upcoming {
