@@ -451,11 +451,15 @@ figure {
 figure .left {
     float: left;
     margin: 1em;
+    display: inline-block;
+    width: 50%;
   }
   
 figure .right {
     float: right;
     margin: 1em;
+    display: inline-block;
+    width: 50%;
   }
 
 /* Contact */
