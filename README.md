@@ -18,7 +18,7 @@ The website is navigated primary with a navigation bar in the header area of the
 - Utility driven classes like mt-* mb-* col-\*-\*
 
 ## Sitemap
-- [Home]()
+- [Home](https://tubular-stroopwafel-ad65c0.netlify.app/)
 - [Portfolio & Projects]()
 - [Blog]()
     - [Why Google Chrome is better?]()
@@ -26,7 +26,7 @@ The website is navigated primary with a navigation bar in the header area of the
     - [Why Mozilla Firefox is better?]()
     - [Why Safari is better?]()
     - [Why Netscape is better?]()
-- [Contact]()
+- [Contact](https://tubular-stroopwafel-ad65c0.netlify.app/contact)
 
 ## Screenshots
 Home Page
