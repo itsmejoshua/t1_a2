@@ -2,8 +2,8 @@
 
 ## Links
 
-* [Published Portfolio](https://linkcomingsoon.com)
-* [Github Repo](https://linkcomingsoon.com)
+* [Published Portfolio](https://tubular-stroopwafel-ad65c0.netlify.app/)
+* [Github Repo](https://github.com/itsmejoshua/t1_a2)
 * [Presentation Video](https://linkcomingsoon.com)
 
 ## Purpose
